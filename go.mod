@@ -1,5 +1,5 @@
 module github.com/blevesearch/mmap-go
 
-go 1.17
+go 1.24.0
 
-require golang.org/x/sys v0.0.0-20211216021012-1d35b9e2eb4e
+require golang.org/x/sys v0.39.0
