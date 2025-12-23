@@ -5,7 +5,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/edsrzf/mmap-go"
+	"github.com/blevesearch/mmap-go"
 )
 
 func ExampleMapRegion() {
