@@ -1,6 +1,6 @@
 mmap-go
 =======
-![Build Status](https://github.com/blevesearch/mmap-go/actions/workflows/tests.yml/badge.svg)
+[![Tests](https://github.com/blevesearch/mmap-go/actions/workflows/tests.yml/badge.svg?branch=master&event=push)](https://github.com/blevesearch/mmap-go/actions/workflows/tests.yml?query=event%3Apush+branch%3Amaster)
 [![Go Reference](https://pkg.go.dev/badge/github.com/blevesearch/mmap-go.svg)](https://pkg.go.dev/github.com/blevesearch/mmap-go)
 
 mmap-go is a portable mmap package for the [Go programming language](http://golang.org).
